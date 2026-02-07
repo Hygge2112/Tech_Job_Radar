@@ -1,0 +1,17 @@
+# Bỏ qua thư mục môi trường ảo
+.venv/
+venv/
+env/
+
+# Bỏ qua file rác của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua dữ liệu nặng (QUAN TRỌNG)
+data/
+*.csv
+*.xlsx
+*.pdf
+
+# Bỏ qua file hệ thống
+.DS_Store
